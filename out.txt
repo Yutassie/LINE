@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="initial-scale=1"><title>https://www.google.co.jp/search?q=%E3%82%AD%E3%83%80%E3%82%A4%09%E5%8B%95%E7%89%A9%09%E3%82%B9%E3%82%BA%E3%82%AD%E7%9B%AE%09%E3%82%BF%E3%82%A4%E7%A7%91%09%E3%82%AD%E3%83%80%E3%82%A4%E5%B1%9E+(%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8)%09</title></head>
+<body style="font-family: arial, sans-serif; background-color: #fff; color: #000; padding:20px; font-size:18px;" onload="e=document.getElementById('captcha');if(e){e.focus();}">
+<div style="max-width:400px;">
+<hr noshade="" size="1" style="color:#ccc; background-color:#ccc;"><br>
+
+続行するには、下に表示される文字を入力してください:<br><br>
+<img src="/sorry/image?id=8895581590268040235&amp;q=CGMSBJl4we8Y_sieuwUiGQDxp4NLbF-uy9dFrQ3JTo1il3WQ3Ru4Pnw&amp;hl=ja&amp;continue=https://www.google.co.jp/search%3Fq%3D%25E3%2582%25AD%25E3%2583%2580%25E3%2582%25A4%2509%25E5%258B%2595%25E7%2589%25A9%2509%25E3%2582%25B9%25E3%2582%25BA%25E3%2582%25AD%25E7%259B%25AE%2509%25E3%2582%25BF%25E3%2582%25A4%25E7%25A7%2591%2509%25E3%2582%25AD%25E3%2583%2580%25E3%2582%25A4%25E5%25B1%259E%2B(%25E5%25AD%2598%25E5%259C%25A8%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8)%2509" border="1" alt="画像を有効にしてください"><br><br><form action="CaptchaRedirect" method="get"><input type="hidden" name="q" value="CGMSBJl4we8Y_sieuwUiGQDxp4NLbF-uy9dFrQ3JTo1il3WQ3Ru4Pnw"><input type="hidden" name="continue" value="https://www.google.co.jp/search?q=%E3%82%AD%E3%83%80%E3%82%A4%09%E5%8B%95%E7%89%A9%09%E3%82%B9%E3%82%BA%E3%82%AD%E7%9B%AE%09%E3%82%BF%E3%82%A4%E7%A7%91%09%E3%82%AD%E3%83%80%E3%82%A4%E5%B1%9E+(%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8)%09"><input type="hidden" name="id" value="8895581590268040235"><input type="text" name="captcha" value="" id="captcha" size="12" style="font-size:16px; padding:3px 0 3px 5px; margin-left:0px;"><input type="submit" name="submit" value="送信" style="font-size:18px; padding:4px 0;"><br><br><br></form>
+<hr noshade="" size="1" style="color:#ccc; background-color:#ccc;">
+<div style="font-size:13px;">
+<b>このページについて</b><br><br>お使いのコンピュータ ネットワークから通常と異なるトラフィックが検出されました。このページは、リクエストがロボットではなく実際のユーザーによって送信されたことを確かめるものです。<a href="#" onclick="document.getElementById('infoDiv').style.display='block';">このページが表示された理由</a><br><br>
+<div id="infoDiv" style="display:none; background-color:#eee; padding:10px; margin:0 0 15px 0; line-height:1.4em;">
+このページは、お使いのコンピュータ ネットワークから<a href="//www.google.com/policies/terms/">利用規約</a>に違反すると考えられるリクエストが自動検出されたときに表示されます。ブロックは、これらのリクエストが停止されると間もなく解除されます。それまでは、上に表示されるセキュリティ画像の文字を入力することでサービスを引き続きご利用いただけます。<br><br>このトラフィックは、リクエストを自動送信する不正なソフトウェア、ブラウザ プラグイン、またはスクリプトによって発生した可能性があります。ネットワーク接続が共有のものである場合は、同じ IP アドレスを使用している別のコンピュータが発生元の可能性がありますので、管理者に相談してください。詳しくは<a href="//support.google.com/websearch/answer/86640">こちら</a>をご覧ください。<br><br>ロボットが使用するような高度な検索語を使用したり、リクエストを非常にすばやく送信した場合も、セキュリティ画像の文字を入力するように求められることがあります。
+
+
+</div><br>
+IP アドレス: 153.120.193.239<br>時間: 2016-06-20T08:08:31Z<br>URL: https://www.google.co.jp/search?q=%E3%82%AD%E3%83%80%E3%82%A4%09%E5%8B%95%E7%89%A9%09%E3%82%B9%E3%82%BA%E3%82%AD%E7%9B%AE%09%E3%82%BF%E3%82%A4%E7%A7%91%09%E3%82%AD%E3%83%80%E3%82%A4%E5%B1%9E+(%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8)%09<br>
+</div></div>
+
+
+</body></html>
